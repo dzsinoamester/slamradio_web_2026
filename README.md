@@ -12,3 +12,6 @@ This is the new generation radio station in Hungary.
  - Contact
  - Event Calendar
  - Seacrh (popup)
+
+
+© Copyright 2026
