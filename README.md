@@ -2,5 +2,13 @@
 This is the new generation radio station in Hungary. 
 
 
-### Music style
-POP & DANCE
+## Pages
+ - Home
+ - Schedule
+ - Shows (with subpages)
+ - DJ's (with subpages)
+ - Blogs / Actions
+ - Playlist (previous track)
+ - Contact
+ - Event Calendar
+ - Seacrh (popup)
