@@ -14,4 +14,4 @@ This is the new generation radio station in Hungary.
  - Seacrh (popup)
 
 
-© Copyright 2026
+© Copyright 2026 - All rights reserved!
